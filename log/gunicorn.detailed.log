@@ -1,0 +1,59 @@
+[2025-04-13 19:46:27,064] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:27,066] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:30,900] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:30] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:30,909] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:30] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:31,014] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:31] "[36mGET /openapi/rapidoc/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:31,015] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:31] "[36mGET /openapi/elements/images/elements.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:31,019] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:31] "[36mGET /openapi/redoc/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:31,020] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:31] "[36mGET /openapi/scalar/images/scalar.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:31,023] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:31] "[36mGET /openapi/swagger/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:31,027] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:31] "[36mGET /openapi/rapipdf/images/rapipdf.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:32,465] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:32] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:32,481] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:32] "[36mGET /openapi/swagger/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:32,484] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:32] "[36mGET /openapi/swagger/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:32,486] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:32] "[36mGET /openapi/swagger/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:32,605] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:32] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:36,116] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:36] "GET /receitas HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:52,184] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:46:52] "POST /receita HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:47:04,457] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:47:04] "POST /receita HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:47:09,951] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:47:09] "GET /receitas HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:47:21,982] ERROR log_exception() L875  Exception on /receita [GET] - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask\app.py L875 
+Traceback (most recent call last):
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ~^^^^^^^^^^^^^^^^^
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\flask_openapi3\scaffold.py", line 117, in view_func
+    response = func(**func_kwargs)
+  File "C:\MVP1_CL-BackEnd\app_exdividado_backEnd\app.py", line 94, in get_receita
+    receita_id = query.id
+                 ^^^^^^^^
+  File "c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\pydantic\main.py", line 994, in __getattr__
+    raise AttributeError(f'{type(self).__name__!r} object has no attribute {item!r}')
+AttributeError: 'ReceitaBuscaSchema' object has no attribute 'id'
+[2025-04-13 19:47:21,986] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:47:21] "[35m[1mGET /receita?descricao=Salário%20Anual HTTP/1.1[0m" 500 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:29,902] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.9:5000 - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:29,903] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:29,903] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,036] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,046] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,158] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[36mGET /openapi/elements/images/elements.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,159] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[36mGET /openapi/rapidoc/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,163] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[36mGET /openapi/redoc/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,165] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[36mGET /openapi/scalar/images/scalar.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,166] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[36mGET /openapi/swagger/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:34,171] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:34] "[36mGET /openapi/rapipdf/images/rapipdf.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:35,760] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:35] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:35,774] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:35] "[36mGET /openapi/swagger/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:50:35,900] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:50:35] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  

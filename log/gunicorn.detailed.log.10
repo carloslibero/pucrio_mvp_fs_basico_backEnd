@@ -1,0 +1,49 @@
+[2025-04-13 19:43:12,950] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.9:5000 - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:12,951] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:12,952] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,865] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,874] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,982] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[36mGET /openapi/elements/images/elements.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,983] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[36mGET /openapi/rapidoc/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,987] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[36mGET /openapi/redoc/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,988] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[36mGET /openapi/scalar/images/scalar.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,990] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[36mGET /openapi/swagger/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:16,994] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:16] "[36mGET /openapi/rapipdf/images/rapipdf.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:19,004] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:19] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:19,022] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:19] "[36mGET /openapi/swagger/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:19,027] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:19] "[36mGET /openapi/swagger/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:19,027] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:19] "[36mGET /openapi/swagger/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:19,147] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:19] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:43:23,724] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:43:23] "GET /receitas HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:04,301] INFO _log() L97    * Detected change in 'C:\\MVP1_CL-BackEnd\\app_exdividado_backEnd\\schemas\\receita.py', reloading - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:04,387] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,708] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[32mGET / HTTP/1.1[0m" 302 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,720] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "GET /openapi/ HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,828] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[36mGET /openapi/rapidoc/images/rapidoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,829] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[36mGET /openapi/elements/images/elements.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,833] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[36mGET /openapi/redoc/images/redoc.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,834] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[36mGET /openapi/scalar/images/scalar.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,836] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[36mGET /openapi/swagger/images/swagger.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:15,841] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:15] "[36mGET /openapi/rapipdf/images/rapipdf.svg HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:21,665] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.9:5000 - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:21,666] INFO _log() L97   [33mPress CTRL+C to quit[0m - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:21,667] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:26,412] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:26] "GET /openapi/swagger HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:26,533] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:26] "[36mGET /openapi/swagger/css/swagger-ui.css HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:26,541] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:26] "[36mGET /openapi/swagger/js/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:26,541] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:26] "[36mGET /openapi/swagger/js/swagger-ui-bundle.js HTTP/1.1[0m" 304 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:26,653] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:26] "GET /openapi/openapi.json HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:31,013] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:31] "GET /receitas HTTP/1.1" 200 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:44:47,283] INFO _log() L97   127.0.0.1 - - [13/Apr/2025 19:44:47] "[35m[1mPOST /receita HTTP/1.1[0m" 500 - - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:45:53,419] INFO _log() L97    * Detected change in 'C:\\MVP1_CL-BackEnd\\app_exdividado_backEnd\\schemas\\receita.py', reloading - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:45:53,508] INFO _log() L97    * Restarting with stat - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
+[2025-04-13 19:46:27,063] INFO _log() L97   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.3.9:5000 - call_trace=c:\MVP1_CL-BackEnd\app_exdividado_backEnd\.venv\Lib\site-packages\werkzeug\_internal.py L97  
